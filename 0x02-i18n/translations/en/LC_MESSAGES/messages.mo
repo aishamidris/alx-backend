@@ -4,7 +4,7 @@
 Report-Msgid-Bugs-To: superstaz.dare@gmail.com
 POT-Creation-Date: 2023-08-04 06:39+0100
 PO-Revision-Date: 2023-08-04 10:02+0100
-Last-Translator: Olowookun Sunday <superstaz.dare@gmail.com>
+Last-Translator: Aisha Muhammad Idris <aishamuhammadidris92@@gmail.com>
 Language: en
 Language-Team: en <LL@li.org>
 Plural-Forms: nplurals=2; plural=(n != 1);
