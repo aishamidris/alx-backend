@@ -1,15 +1,15 @@
 # English translations for i18n.
-# Copyright (C) 2023 Olowookun Sunday.
+# Copyright (C) 2023 Aisha Muhammad Idris.
 # This file is distributed under the same license as the i18n project.
-# Olowookun Sunday <superstaz.dare@gmail.com>, 2023.
+# Aisha Muhammad Idris <aishamuhammadidris92@gmail.com>, 2023.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: superstaz.dare@gmail.com\n"
+"Report-Msgid-Bugs-To: aishamuhammadidris92@gmail.com\n"
 "POT-Creation-Date: 2023-08-04 07:22+0100\n"
 "PO-Revision-Date: 2023-08-04 10:02+0100\n"
-"Last-Translator: Olowookun Sunday <superstaz.dare@gmail.com>\n"
+"Last-Translator: Aisha Muhammad Idris <aishamuhammadidris92@gmail.com>\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
